@@ -2,6 +2,7 @@ selected_scheme scheme-small
 binary_x86_64-linux 1
 collection-fontutils 1
 collection-latex 1
+collection-xetex 1
 in_place 0
 option_adjustrepo 1
 option_autobackup 1
@@ -21,4 +22,3 @@ option_sys_man /usr/local/share/man
 option_w32_multi_user 0
 option_write18_restricted 1
 portable 0
-lastpage 1
